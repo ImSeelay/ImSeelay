@@ -1,55 +1,28 @@
-[![banner](./images/BannerImg.svg)](https://caspertheghost.me)
+# Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></a>
 
-## Hello! 👋
+I'm [Harsh](https://harshhhdev.github.io/), I make web applications and try out new things.
 
-- 💻 I'm a frontend focused web developer
-- ⚡ I love programming, learning and math
-- 🌱 Currently learning NextJS, TypeScript and design(in school)
-- 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
-- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) and [notey.app](https://github.com/Dev-CasperTheGhost/notey.app)
-- 📦 My biggest project so far: [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
+ - :telescope: I’m currently working on something cool :wink:
+ - :seedling: I’m currently learning [React](https://reactjs.org/) and [TypeScript](https://www.typescriptlang.org/)
+ - :speech_balloon: Ask me about anything [here](https://github.com/harshhhdev/harshhhdev/discussions/1)
+ - :mailbox: How to reach me: [@harshhhsinghpersonal](mailto:harshhh.singh.personal@gmail.com)
+ - :zap: Fun fact: I also love [web design](https://dribbble.com/harshhhdev)
 
-## skills and tools
+Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
-<code><img height="30" src="./images/do_logo.svg"></code>
-
-<details>
-  <summary>stats</summary>
-  
-  
-  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
-  
-  ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua&bg_color=00000000)
-  
-  [![wakatime](https://github-readme-stats-wa3h-avpqzc69j.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@devcaspertheghost)
-
- </details>
-
+## Latest from my tech blog :book:
+<!-- BLOG-POST-LIST:START -->
+- [NPM or Yarn? Find the right package manager for you](https://dev.to/harshhhdev/npm-or-yarn-find-the-right-pacakge-manager-for-you-17ko)
+- [Tips and Ideas for DigitalOcean Hackathon](https://dev.to/harshhhdev/tips-and-ideas-for-digitalocean-hackathon-fha)
+- [UI Design Trend of 2021](https://dev.to/harshhhdev/ui-design-trend-of-2021-4fb7)
+- [What is GraphQL and why use it?](https://dev.to/harshhhdev/graphql-what-and-why-3f9n)
+- [Web Scraping with Node and Puppeteer](https://dev.to/harshhhdev/guide-to-web-scraping-with-node-1kpe)
 <!-- BLOG-POST-LIST:END -->
 
 ## My coding activity for this week 📊
 
 <!--START_SECTION:waka-->
-
 ```text
-Other        9 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   31.36 %
-JavaScript   9 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   31.33 %
-EJS          2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-CSS          2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Vue.js       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+No Activity tracked this Week
 ```
-
 <!--END_SECTION:waka-->
