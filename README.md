@@ -26,9 +26,9 @@
 <details>
   <summary>STATS</summary>
 
-![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=ImSeelay)
+![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=ImSeelay&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
 
-![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=ImSeelay)
+![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=ImSeelay&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua&bg_color=00000000)
 
 <!--START_SECTION:waka-->
 
