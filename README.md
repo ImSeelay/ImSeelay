@@ -1,4 +1,4 @@
-[![banner](./images/BannerImg.svg)](https://seelay.in)
+[![banner](./images/seelay.svg)](https://seelay.in)
 
 ##### Hi there! 👋
 
