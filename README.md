@@ -26,20 +26,22 @@
 <details>
   <summary>STATS</summary>
 
-![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=ImSeelay&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
+![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=ImSeelay)
 
-![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=ImSeelay&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua&bg_color=00000000)
+![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=ImSeelay)
 
 <!--START_SECTION:waka-->
+
 ```text
 Week: 09 January, 2021 - 16 January, 2021
 
-Other        8 hrs 56 mins   ███████████████████████░░   91.44 % 
-JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Other        8 hrs 56 mins   ███████████████████████░░   91.44 %
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
+
 <!--END_SECTION:waka-->
 
  </details>
