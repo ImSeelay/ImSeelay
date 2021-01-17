@@ -24,11 +24,11 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="./images/adobephotoshop.svg"></code>
 <code><img height="30" src="./images/adobeillustrator.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeaftereffects.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeindesign.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobedreamweaver.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobexd.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroom.svg"></code>
+<code><img height="30" src="./images/adobeaftereffects.svg"></code>
+<code><img height="30" src="./images/adobeindesign.svg"></code>
+<code><img height="30" src="./images/adobedreamweaver.svg"></code>
+<code><img height="30" src="./images/adobexd.svg"></code>
+<code><img height="30" src="./images/adobelightroom.svg"></code>
 
 <details>
   <summary>stats</summary>
