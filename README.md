@@ -1,6 +1,6 @@
 [![banner](./images/BannerImg.svg)](https://seelay.in)
 
-##### Hi I'm Seelay! 👋
+##### Hi there! 👋
 
 ##### SKILLS & TOOLS 💻
 
