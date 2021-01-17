@@ -21,14 +21,14 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobephotoshop.svg"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeaftereffects.svg"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeindesign.svg"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobedreamweaver.svg"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobexd.svg"></code>
-<code><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/adobelightroom.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeaftereffects.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeindesign.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobedreamweaver.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobexd.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobelightroom.svg"></code>
 
 <details>
   <summary>stats</summary>
