@@ -1,5 +1,7 @@
 [![banner](./images/BannerImg.svg)](https://seelay.in)
 
+---
+
 ## Hi I'm Seelay! 👋
 
 ---
