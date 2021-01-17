@@ -4,7 +4,7 @@
 
 ##### SKILLS & TOOLS 💻
 
-[![banner](./images/skills&tools.svg)](./images/skills&tools.svg)
+[![banner](./images/skills&tools.svg)](https://seelay.in)
 
 <details>
   <summary>STATS</summary>
