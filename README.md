@@ -11,9 +11,9 @@
 
 ---
 
-![Aman Seelay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imseelay&show_icons=true&theme=nord)
+![Aman Seelay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imseelay&count_private=true&show_icons=true&theme=nord)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=imseelay&show_icons=true&theme=nord)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=imseelay&count_private=true&show_icons=true&theme=nord)
 
 ##### Weekly development breakdown 📊
 
