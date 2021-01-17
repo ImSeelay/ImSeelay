@@ -2,11 +2,11 @@
 
 ---
 
-## Hi I'm Seelay! 👋
+##### Hi I'm Seelay! 👋
 
 ---
 
-## SKILLS & TOOLS 💻
+##### SKILLS & TOOLS 💻
 
 ---
 
@@ -38,7 +38,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=imseelay&show_icons=true&theme=nord)
 
-## Weekly development breakdown 📊
+##### Weekly development breakdown 📊
 
 ---
 
@@ -60,7 +60,7 @@ TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░
 
  </details>
 
-## I'm Listening 🎵
+##### I'm Listening 🎵
 
 ---
 
