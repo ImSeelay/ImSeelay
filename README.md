@@ -1,5 +1,7 @@
 [![banner](./images/BannerImg.svg)](https://seelay.in)
 
+[![banner](./images/SEELAY.jpg)](https://seelay.in)
+
 ##### Hi I'm Seelay! 👋
 
 ##### SKILLS & TOOLS 💻
