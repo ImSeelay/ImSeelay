@@ -2,7 +2,11 @@
 
 ## Hi I'm Seelay! 👋
 
+---
+
 ## SKILLS & TOOLS 💻
+
+---
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
@@ -34,6 +38,8 @@
 
 ## Weekly development breakdown 📊
 
+---
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -48,9 +54,13 @@ TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+---
+
  </details>
 
 ## I'm Listening 🎵
+
+---
 
 <object data="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" >
 
