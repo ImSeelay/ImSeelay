@@ -31,15 +31,15 @@
 ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=ImSeelay&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua&bg_color=00000000)
 
 <!--START_SECTION:waka-->
-
 ```text
-Other        9 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   31.36 %
-JavaScript   9 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   31.33 %
-EJS          2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-CSS          2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Vue.js       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-```
+Week: 09 January, 2021 - 16 January, 2021
 
+Other        8 hrs 56 mins   ███████████████████████░░   91.44 % 
+JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Markdown     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
 <!--END_SECTION:waka-->
 
  </details>
