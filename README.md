@@ -41,7 +41,7 @@
 
  </details>
 
-## Here's what I'm Listening to right now:
+## I'm Listening 🎵
 
 <object data="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" >
 
