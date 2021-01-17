@@ -60,4 +60,4 @@ TypeScript   4 mins          ▒░░░░░░░░░░░░░░░░
 
 </object>
 
-[![banner](./images/SEELAY.jpg)](https://seelay.in)
+<!-- [![banner](./images/SEELAY.jpg)](https://seelay.in) -->
