@@ -32,14 +32,30 @@
 
 <details>
   <summary>STATS</summary>
-  
-  
+
   ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=ImSeelay&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
   
   ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=ImSeelay&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua&bg_color=00000000)
   
   [![wakatime](https://github-readme-stats-wa3h-avpqzc69j.vercel.app/api/wakatime?username=ImSeelay&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@ImSeelay)
  </details>
+
+ <!-- how to embed in your Github Readme -->
+
+![now playing](https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779)
+
+<!-- or -->
+
+<img src="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" />
+
+
+<!-- But the best way to ensure interactivity is -->
+
+<object data="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" >
+
+  <img src="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" />
+
+</object>
 
 ## My coding activity for this week 📊
 
