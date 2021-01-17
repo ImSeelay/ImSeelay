@@ -23,10 +23,6 @@ Just hit `npx harsh-dev` to learn about me in a unique way :wink:
 
 <!--START_SECTION:waka-->
 ```text
-Other        9 hrs 5 mins    ████████░░░░░░░░░░░░░░░░░   31.36 % 
-JavaScript   9 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   31.33 % 
-EJS          2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-CSS          2 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Vue.js       1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
