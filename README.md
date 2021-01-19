@@ -8,6 +8,11 @@ I'm [Aman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack We
 
 [![banner](./images/skills&tools.svg)](https://seelay.in)
 
+<details>
+  <summary>Stats</summary>
+
+---
+
 <!--START_SECTION:waka-->
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
@@ -91,6 +96,10 @@ Vue                      2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImSeelay/ImSeelay/master/charts/bar_graph.png)
 
 <!--END_SECTION:waka-->
+
+---
+
+ </details>
 
 **🎵 I'm Listening to**
 
