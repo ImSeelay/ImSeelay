@@ -1,10 +1,10 @@
 [![banner](./images/seelay.svg)](https://seelay.in)
 
-##### Hey there Stranger! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+**<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there Stranger!**
 
 I'm [Aman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack Web Developer and a part time Digital Artist based in Chandighar , India.
 
-##### My Skills & Tools I use 💻
+**💻 My Skills & Tools I use**
 
 [![banner](./images/skills&tools.svg)](https://seelay.in)
 
@@ -92,7 +92,7 @@ Vue                      2 repos             ░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-##### I'm Listening 🎵
+**🎵 I'm Listening to**
 
 <object data="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" >
 
