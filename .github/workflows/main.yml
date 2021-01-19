@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Update Stats
 
 on:
   workflow_dispatch:
@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
