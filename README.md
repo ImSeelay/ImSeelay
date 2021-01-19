@@ -2,7 +2,7 @@
 
 ##### Hey there Stranger! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm [Abman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack Web Developer and a part time Digital Artist based in Chandighar , India.
+I'm [Aman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack Web Developer and a part time Digital Artist based in Chandighar , India.
 
 ##### My Skills & Tolls I use 💻
 
