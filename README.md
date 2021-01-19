@@ -40,7 +40,3 @@ TypeScript   4 mins          ░░░░░░░░░░░░░░░░░
   <img src="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" />
 
 </object>
-
-![now playing](https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779)
-
-<img src="https://now-play.vercel.app/api/generate?uid=7a17a86e-d6b7-43b5-8d9c-1d6dae42a779" />
