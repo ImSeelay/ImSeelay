@@ -4,8 +4,6 @@
 
 I'm [Abman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack Web Developer and a part time Digital Artist based in Chandighar , India.
 
-<br />
-
 ##### My Skills & Tolls I use 💻
 
 [![banner](./images/skills&tools.svg)](https://seelay.in)
