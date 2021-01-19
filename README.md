@@ -4,7 +4,7 @@
 
 I'm [Aman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack Web Developer and a part time Digital Artist based in Chandighar , India.
 
-##### My Skills & Tolls I use 💻
+##### My Skills & Tools I use 💻
 
 [![banner](./images/skills&tools.svg)](https://seelay.in)
 
