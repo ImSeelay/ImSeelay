@@ -14,13 +14,13 @@ I'm [Aman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack We
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 222 Contributions in the Year 2021
  > 
-> 📦 546.2 kB Used in Github's Storage 
+> 📦 546.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
