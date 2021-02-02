@@ -14,7 +14,7 @@ I'm [Aman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack We
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My Github Data** 
 
