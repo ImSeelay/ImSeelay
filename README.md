@@ -16,13 +16,13 @@ Creative Designer, Web Developer and a part time Digital Artist.
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 762 Contributions in the Year 2021
  > 
-> 📦 816.3 kB Used in Github's Storage 
+> 📦 816.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,7 +97,7 @@ CSS                      3 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImSeelay/ImSeelay/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/09/2021
+ Last Updated on 02/09/2021
 <!--END_SECTION:waka-->
 
 ---
