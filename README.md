@@ -16,15 +16,15 @@ Creative Designer, Web Developer and a part time Digital Artist.
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 895 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
-> 📦 979.8 kB Used in GitHub's Storage 
+> 📦 979.9 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
@@ -98,7 +98,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImSeelay/ImSeelay/master/charts/bar_graph.png) 
 
 
- Last Updated on 25/09/2021
+ Last Updated on 26/09/2021
 <!--END_SECTION:waka-->
 
 ---
