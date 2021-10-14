@@ -20,7 +20,7 @@ Creative Designer, Web Developer and a part time Digital Artist.
 
 **🐱 My GitHub Data** 
 
-> 🏆 903 Contributions in the Year 2021
+> 🏆 905 Contributions in the Year 2021
  > 
 > 📦 1.0 MB Used in GitHub's Storage 
  > 
@@ -98,7 +98,7 @@ Vue                      4 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ImSeelay/ImSeelay/master/charts/bar_graph.png) 
 
 
- Last Updated on 12/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 
 ---
