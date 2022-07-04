@@ -3,12 +3,13 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1200 630" style="enable-background:new 0 0 1200 630;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#F8F8F8;}
+	.st0{display:none;fill:#F8F8F8;}
 	.st1{fill:#FF2222;}
 	.st2{fill:#FF4949;}
 	.st3{fill:#232323;}
 	.st4{fill:url(#SVGID_1_);}
 	.st5{fill:#303030;}
+	.st6{fill:#F8F8F8;}
 </style>
 <rect class="st0" width="1200" height="630"/>
 <g>
@@ -322,7 +323,7 @@
 		C521.6,470.7,519.6,472.7,517.1,472.7z"/>
 	<path class="st5" d="M717.1,472.7h-34.3c-2.5,0-4.5-2-4.5-4.5V434c0-2.5,2-4.5,4.5-4.5h34.3c2.5,0,4.5,2,4.5,4.5v34.3
 		C721.6,470.7,719.6,472.7,717.1,472.7z"/>
-	<path class="st0" d="M667.1,472.7h-34.3c-2.5,0-4.5-2-4.5-4.5V434c0-2.5,2-4.5,4.5-4.5h34.3c2.5,0,4.5,2,4.5,4.5v34.3
+	<path class="st6" d="M667.1,472.7h-34.3c-2.5,0-4.5-2-4.5-4.5V434c0-2.5,2-4.5,4.5-4.5h34.3c2.5,0,4.5,2,4.5,4.5v34.3
 		C671.6,470.7,669.6,472.7,667.1,472.7z"/>
 </g>
 </svg>
