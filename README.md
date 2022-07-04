@@ -4,7 +4,7 @@
 
 I'm [Aman Seelay](https://www.seelay.in)
 
-Creative Designer, Web Developer and a part time Digital Artist.
+Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://art.seelay.in) practicing minimalism, designing and building beautiful digital products and experiences. [EDM lover](https://pl.seelay.in) in search of flow, [Writing](https://www.seelay.in/blog) about art & design.
 
 **💻 My Skills & Tools I use**
 
