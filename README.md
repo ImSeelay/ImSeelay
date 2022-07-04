@@ -8,7 +8,7 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 
 **💻 My Skills & Tools I use**
 
-[![banner](./images/skills&tools.svg)](https://seelay.in)
+[![banner](./images/skills&tools.svg)](https://www.seelay.in/about)
 
 <details>
   <summary>Stats</summary>
