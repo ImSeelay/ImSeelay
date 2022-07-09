@@ -15,10 +15,9 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 
 ---
 
-[![wakatime](https://wakatime.com/badge/user/33975f7b-0225-4277-9a0e-cfce73413505.svg)](https://wakatime.com/@33975f7b-0225-4277-9a0e-cfce73413505)
-
 <!--START_SECTION:waka-->
 
+![Code Time](http://img.shields.io/badge/Code%20Time-516%20hrs%2018%20mins-blue)
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
@@ -27,15 +26,44 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 
 > 🏆 67 Contributions in the Year 2022
 >
-> 📦 600.6 kB Used in GitHub's Storage
+> 📦 1.1 MB Used in GitHub's Storage
 >
 > 💼 Opted to Hire
 >
 > 📜 2 Public Repositories
 >
-> 🔑 33 Private Repositories
+> 🔑 104 Private Repositories
 >
 > **I'm a Night 🦉**
+
+```text
+🌞 Morning    183 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67%
+🌆 Daytime    193 commits    █████░░░░░░░░░░░░░░░░░░░░   19.69%
+🌃 Evening    347 commits    ████████░░░░░░░░░░░░░░░░░   35.41%
+🌙 Night      257 commits    ██████░░░░░░░░░░░░░░░░░░░   26.22%
+
+```
+
+📅 **I'm Most Productive on Monday**
+
+````text
+Monday       174 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.76%
+Tuesday      124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.65%
+Wednesday    84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
+Thursday     156 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.92%
+Friday       135 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.78%
+Saturday     169 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24%
+Sunday       138 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.08%
+ >
+> 📦 600.6 kB Used in GitHub's Storage
+ >
+> 💼 Opted to Hire
+ >
+> 📜 2 Public Repositories
+ >
+> 🔑 33 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning    164 commits    █████░░░░░░░░░░░░░░░░░░░░   19.59%
@@ -43,7 +71,7 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 🌃 Evening    269 commits    ████████░░░░░░░░░░░░░░░░░   32.14%
 🌙 Night      246 commits    ███████░░░░░░░░░░░░░░░░░░   29.39%
 
-```
+````
 
 📅 **I'm Most Productive on Thursday**
 
@@ -83,8 +111,16 @@ Windows                  37 mins             ███████████�
 **I Mostly Code in JavaScript**
 
 ```text
+<<<<<<< HEAD
+JavaScript               64 repos            ████████████████░░░░░░░░░   64.65%
+TypeScript               21 repos            █████░░░░░░░░░░░░░░░░░░░░   21.21%
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
+CSS                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
+Vue                      4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
+=======
 JavaScript               26 repos            ███████████████████░░░░░░   76.47%
 TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53%
+>>>>>>> f91e17f4cd0a6d2028349faeae73fa0e152ca822
 
 ```
 
@@ -92,7 +128,13 @@ TypeScript               8 repos             ██████░░░░░�
 
 ![Chart not found](https://raw.githubusercontent.com/ImSeelay/ImSeelay/master/charts/bar_graph.png)
 
+Last Updated on 06/07/2022 21:14:45 UTC
+
+# <<<<<<< HEAD
+
 Last Updated on 09/07/2022 18:47:05 UTC
+
+> > > > > > > f91e17f4cd0a6d2028349faeae73fa0e152ca822
 
 <!--END_SECTION:waka-->
 
