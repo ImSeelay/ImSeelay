@@ -16,15 +16,13 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-460%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-143-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 85 Contributions in the Year 2022
+> 🏆 89 Contributions in the Year 2022
  > 
 > 📦 600.6 kB Used in GitHub's Storage 
  > 
@@ -37,10 +35,10 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    158 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
+🌞 Morning    155 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.45% 
 🌆 Daytime    149 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
 🌃 Evening    280 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      253 commits    ███████░░░░░░░░░░░░░░░░░░   30.12%
+🌙 Night      256 commits    ███████░░░░░░░░░░░░░░░░░░   30.48%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -48,11 +46,11 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 ```text
 Monday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
 Tuesday      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-Wednesday    83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
+Wednesday    86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+Thursday     141 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.79% 
 Friday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
 Saturday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
-Sunday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48%
+Sunday       129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.36%
 
 ```
 
@@ -88,7 +86,7 @@ TypeScript               8 repos             ██████░░░░░�
 
 
 
- Last Updated on 12/07/2022 19:02:12 UTC
+ Last Updated on 12/07/2022 19:59:26 UTC
 <!--END_SECTION:waka-->
 
 ---
