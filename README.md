@@ -16,13 +16,15 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-459%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-139-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 75 Contributions in the Year 2022
+> 🏆 85 Contributions in the Year 2022
  > 
 > 📦 600.6 kB Used in GitHub's Storage 
  > 
@@ -35,10 +37,10 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    160 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+🌞 Morning    158 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
 🌆 Daytime    149 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
 🌃 Evening    280 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      251 commits    ███████░░░░░░░░░░░░░░░░░░   29.88%
+🌙 Night      253 commits    ███████░░░░░░░░░░░░░░░░░░   30.12%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -46,11 +48,11 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 ```text
 Monday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
 Tuesday      117 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-Wednesday    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.64% 
-Thursday     144 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
+Wednesday    83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
+Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
 Friday       124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
 Saturday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.76% 
-Sunday       131 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.6%
+Sunday       130 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.48%
 
 ```
 
@@ -71,11 +73,6 @@ Git Config               0 secs              ░░░░░░░░░░░�
 Browser                  7 hrs 50 mins       ████████████████████████░   97.69% 
 VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
 
-🐱‍💻 Projects: 
-ImSeelay                 6 hrs 50 mins       █████████████████████░░░░   85.37% 
-seelay-portfolio         1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.55% 
-family-tree              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
-
 💻 Operating System: 
 Windows                  8 hrs 1 min         █████████████████████████   100.0%
 
@@ -90,12 +87,8 @@ TypeScript               8 repos             ██████░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/ImSeelay/ImSeelay/master/charts/bar_graph.png) 
-
-
- Last Updated on 12/07/2022 18:53:19 UTC
+ Last Updated on 12/07/2022 19:02:12 UTC
 <!--END_SECTION:waka-->
 
 ---
