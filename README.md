@@ -16,9 +16,9 @@ Creative Designer, Frontend Developer, and Freelance [Digital Artist](https://ar
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
@@ -61,12 +61,13 @@ Sunday       134 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    5 hrs 55 mins       █████████████████████████   99.55% 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+Other                    5 hrs 55 mins       ████████████████████████░   99.44% 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-Browser                  5 hrs 55 mins       █████████████████████████   99.55% 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+Browser                  5 hrs 55 mins       ████████████████████████░   99.44% 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 💻 Operating System: 
 Windows                  5 hrs 57 mins       █████████████████████████   100.0%
@@ -83,7 +84,7 @@ TypeScript               8 repos             ██████░░░░░�
 
 
 
- Last Updated on 27/07/2022 15:39:09 UTC
+ Last Updated on 28/07/2022 00:55:31 UTC
 <!--END_SECTION:waka-->
 
 ---
