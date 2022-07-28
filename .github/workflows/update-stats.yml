@@ -3,7 +3,7 @@ name: Update Stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 11:59PM UTC
+    # Runs at 06:29PM UTC / 11:59PM IST
     - cron: "29 18 * * *"
 
 jobs:
