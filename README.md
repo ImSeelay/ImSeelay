@@ -2,9 +2,7 @@
 
 **👋 Hey there Stranger!**
 
-I'm [Aman Seelay](https://www.seelay.in)
-
-A product designer based in Chandigarh, India with experience in delivering end-to-end UX/UI design for digital products. I'm passionate about improving the lives of others through design and constantly looking to learn new things every day.
+I'm [Aman Seelay](https://www.seelay.in), a product designer based in Chandigarh, India with experience in delivering end-to-end UX/UI design for digital products. I'm passionate about improving the lives of others through design and constantly looking to learn new things every day.
 
 I love to create things by [designing](https://www.seelay.in/#work) , [developing](https://www.seelay.in/#projects) or [drawing](https://art.seelay.in) :)
 
