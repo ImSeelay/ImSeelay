@@ -16,13 +16,13 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-62-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 245 Contributions in the Year 2022
  > 
-> 📦 641.8 kB Used in GitHub's Storage 
+> 📦 643.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -84,7 +84,7 @@ TypeScript               8 repos             █████░░░░░░�
 
 
 
- Last Updated on 10/08/2022 20:47:30 UTC
+ Last Updated on 11/08/2022 00:41:14 UTC
 <!--END_SECTION:waka-->
 
 ---
