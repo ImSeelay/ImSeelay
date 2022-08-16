@@ -5,7 +5,7 @@ on:
   schedule:
     # Runs at 06:29PM UTC / 11:59PM IST
     # Runs at 12am IST
-    - cron: "* * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   update-readme:
