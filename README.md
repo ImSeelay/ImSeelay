@@ -22,7 +22,7 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 
 > 🏆 275 Contributions in the Year 2022
  > 
-> 📦 662.8 kB Used in GitHub's Storage 
+> 📦 663.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -59,13 +59,14 @@ Sunday       114 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     21 mins             █████████████░░░░░░░░░░░░   53.37% 
+JavaScript               18 mins             ███████████░░░░░░░░░░░░░░   46.63%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  39 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.0%
 
 ```
 
@@ -79,7 +80,7 @@ TypeScript               8 repos             █████░░░░░░�
 
 
 
- Last Updated on 24/09/2022 06:57:07 UTC
+ Last Updated on 25/09/2022 06:55:22 UTC
 <!--END_SECTION:waka-->
 
 ---
