@@ -16,19 +16,19 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 276 Contributions in the Year 2022
  > 
-> 📦 663.1 kB Used in GitHub's Storage 
+> 📦 672.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 34 Private Repositories  
+> 🔑 36 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -73,14 +73,14 @@ Windows                  39 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               27 repos            ███████████████████░░░░░░   77.14% 
-TypeScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   22.86%
+JavaScript               28 repos            ███████████████████░░░░░░   75.68% 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   24.32%
 
 ```
 
 
 
- Last Updated on 27/09/2022 07:22:15 UTC
+ Last Updated on 28/09/2022 07:09:35 UTC
 <!--END_SECTION:waka-->
 
 ---
