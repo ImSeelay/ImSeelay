@@ -16,7 +16,7 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -79,7 +79,7 @@ TypeScript               11 repos            ███████░░░░�
 
 
 
- Last Updated on 26/10/2022 06:55:51 UTC
+ Last Updated on 27/10/2022 06:53:08 UTC
 <!--END_SECTION:waka-->
 
 ---
