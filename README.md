@@ -20,8 +20,6 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 
 **🐱 My GitHub Data** 
 
-> 🏆 357 Contributions in the Year 2022
- > 
 > 📦 676.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -79,7 +77,7 @@ TypeScript               11 repos            ███████░░░░�
 
 
 
- Last Updated on 03/11/2022 06:51:25 UTC
+ Last Updated on 04/11/2022 06:51:25 UTC
 <!--END_SECTION:waka-->
 
 ---
