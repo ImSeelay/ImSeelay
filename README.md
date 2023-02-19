@@ -16,13 +16,13 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 91 Contributions in the Year 2023
  > 
-> 📦 698.5 kB Used in GitHub's Storage 
+> 📦 697.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -59,13 +59,16 @@ Sunday         187 commits       █████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     11 mins             ████████████░░░░░░░░░░░░░   51.25 % 
+JSON                     10 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -80,7 +83,7 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2023 06:39:53 UTC
+ Last Updated on 19/02/2023 06:40:03 UTC
 <!--END_SECTION:waka-->
 
 ---
