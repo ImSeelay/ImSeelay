@@ -20,7 +20,7 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 
 **🐱 My GitHub Data** 
 
-> 📦 504.4 kB Used in GitHub's Storage 
+> 📦 504.3 kB Used in GitHub's Storage 
  > 
 > 🏆 264 Contributions in the Year 2023
  > 
@@ -81,7 +81,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2023 06:37:52 UTC
+ Last Updated on 27/05/2023 06:37:30 UTC
 <!--END_SECTION:waka-->
 
 ---
