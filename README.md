@@ -16,7 +16,7 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -82,7 +82,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2023 09:19:29 UTC
+ Last Updated on 28/09/2023 06:38:52 UTC
 <!--END_SECTION:waka-->
 
 ---
