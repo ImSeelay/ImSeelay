@@ -16,11 +16,11 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 614.7 kB Used in GitHub's Storage 
+> 📦 614.8 kB Used in GitHub's Storage 
  > 
 > 🏆 729 Contributions in the Year 2023
  > 
@@ -57,18 +57,13 @@ Sunday                   339 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 40 mins        ███████████████████████░░   90.96 % 
-JavaScript               7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Edge                     1 hr 6 mins         ███████████████░░░░░░░░░░   59.60 % 
-Chrome                   34 mins             ████████░░░░░░░░░░░░░░░░░   31.36 % 
-VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 50 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +78,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2023 06:38:52 UTC
+ Last Updated on 29/12/2023 06:38:45 UTC
 <!--END_SECTION:waka-->
 
 ---
