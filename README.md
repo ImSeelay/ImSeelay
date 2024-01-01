@@ -22,7 +22,7 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 
 > 📦 614.8 kB Used in GitHub's Storage 
  > 
-> 🏆 729 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -78,7 +78,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2023 06:37:41 UTC
+ Last Updated on 01/01/2024 06:39:37 UTC
 <!--END_SECTION:waka-->
 
 ---
