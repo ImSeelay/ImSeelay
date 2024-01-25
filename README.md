@@ -16,7 +16,7 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,13 +57,17 @@ Sunday                   339 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 14 mins        ███████████████████████░░   93.64 % 
+JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Edge                     39 mins             ████████████░░░░░░░░░░░░░   49.18 % 
+Chrome                   35 mins             ███████████░░░░░░░░░░░░░░   44.36 % 
+VS Code                  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +82,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2024 06:40:17 UTC
+ Last Updated on 25/01/2024 06:39:51 UTC
 <!--END_SECTION:waka-->
 
 ---
