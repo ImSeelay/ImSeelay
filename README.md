@@ -57,16 +57,13 @@ Sunday                   344 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    1 hr 7 mins         ████████████████░░░░░░░░░   65.85 % 
-JavaScript               29 mins             ███████░░░░░░░░░░░░░░░░░░   28.64 % 
-Figma Design             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr 12 mins        ██████████████████░░░░░░░   71.36 % 
-VS Code                  29 mins             ███████░░░░░░░░░░░░░░░░░░   28.64 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +78,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/04/2024 06:39:03 UTC
+ Last Updated on 23/04/2024 06:39:56 UTC
 <!--END_SECTION:waka-->
 
 ---
