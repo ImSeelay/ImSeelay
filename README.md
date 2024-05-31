@@ -16,11 +16,11 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 736.1 kB Used in GitHub's Storage 
+> 📦 736.2 kB Used in GitHub's Storage 
  > 
 > 🏆 9 Contributions in the Year 2024
  > 
@@ -78,7 +78,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2024 06:41:14 UTC
+ Last Updated on 31/05/2024 06:40:42 UTC
 <!--END_SECTION:waka-->
 
 ---
