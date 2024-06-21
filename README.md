@@ -26,9 +26,9 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 1 Public Repository 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -57,13 +57,19 @@ Sunday                   344 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 37 mins        ██████████████████░░░░░░░   72.00 % 
+TypeScript               35 mins             ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 35 mins        ██████████████████░░░░░░░   70.53 % 
+VS Code                  38 mins             ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+Edge                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +84,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2024 06:41:23 UTC
+ Last Updated on 21/06/2024 06:41:31 UTC
 <!--END_SECTION:waka-->
 
 ---
