@@ -30,6 +30,42 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
  > 
 > 🔑 44 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                310 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+🌆 Daytime                298 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+🌃 Evening                579 commits         ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌙 Night                  682 commits         █████████░░░░░░░░░░░░░░░░   36.49 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Tuesday                  297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday                170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Thursday                 325 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Friday                   212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Saturday                 292 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Sunday                   344 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -42,7 +78,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2024 06:42:49 UTC
+ Last Updated on 26/07/2024 06:42:56 UTC
 <!--END_SECTION:waka-->
 
 ---
