@@ -22,6 +22,8 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 
 > 📦 751.9 kB Used in GitHub's Storage 
  > 
+> 🏆 68 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -55,13 +57,19 @@ Sunday                   351 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 28 mins        █████████████████████░░░░   83.10 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 20 mins        ███████████████████░░░░░░   75.52 % 
+VS Code                  18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Edge                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +84,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2024 06:48:28 UTC
+ Last Updated on 02/10/2024 06:49:25 UTC
 <!--END_SECTION:waka-->
 
 ---
