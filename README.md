@@ -22,6 +22,8 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 
 > 📦 751.9 kB Used in GitHub's Storage 
  > 
+> 🏆 68 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -82,7 +84,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2024 06:46:51 UTC
+ Last Updated on 04/10/2024 06:47:40 UTC
 <!--END_SECTION:waka-->
 
 ---
