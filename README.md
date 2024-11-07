@@ -1,8 +1,8 @@
 [![banner](./images/seelay.svg)](https://www.seelay.in)
 
-**👋 Hey there Stranger!**
+**Hey there 👋 I'm Aman Seelay**
 
-I'm [Aman Seelay](https://www.seelay.in), a product designer based in Chandigarh, India with experience in delivering end-to-end UX/UI design for digital products. I'm passionate about improving the lives of others through design and constantly looking to learn new things every day.
+[Multi-skilled](https://www.seelay.in/#skills), Product Designer from India, Passionate about blending [creativity](https://illustrations.seelay.in) with <b>data</b> to shape intuitive, future-ready products that align with both <s>user's</s> people's needs and business goals. Improving the lives of others through design and constantly looking to learn new things every day.
 
 I love to create things by [designing](https://www.seelay.in/#work) , [developing](https://www.seelay.in/#projects) or [drawing](https://art.seelay.in) :)
 
@@ -16,74 +16,73 @@ I love to create things by [designing](https://www.seelay.in/#work) , [developin
 ---
 
 <!--START_SECTION:waka-->
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 780.4 kB Used in GitHub's Storage 
- > 
+> 📦 780.4 kB Used in GitHub's Storage
+>
 > 🏆 178 Contributions in the Year 2024
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 43 Private Repository 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 1 Public Repository
+>
+> 🔑 43 Private Repository
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-🌆 Daytime                335 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-🌃 Evening                624 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌙 Night                  742 commits         █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌞 Morning                302 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 %
+🌆 Daytime                335 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 %
+🌃 Evening                624 commits         ████████░░░░░░░░░░░░░░░░░   31.15 %
+🌙 Night                  742 commits         █████████░░░░░░░░░░░░░░░░   37.04 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Tuesday                  304 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Wednesday                172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-Thursday                 339 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Friday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Saturday                 299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Sunday                   378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Monday                   257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 %
+Tuesday                  304 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Wednesday                172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Thursday                 339 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.92 %
+Friday                   254 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Saturday                 299 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 %
+Sunday                   378 commits         █████░░░░░░░░░░░░░░░░░░░░   18.87 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Other                    10 hrs 7 mins       ██████████████████████░░░   87.52 % 
-JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+💬 Programming Languages:
+Other                    10 hrs 7 mins       ██████████████████████░░░   87.52 %
+JavaScript               1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 
-🔥 Editors: 
-Chrome                   10 hrs 14 mins      ██████████████████████░░░   88.55 % 
-VS Code                  1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+🔥 Editors:
+Chrome                   10 hrs 14 mins      ██████████████████████░░░   88.55 %
+VS Code                  1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
 
-💻 Operating System: 
-Windows                  11 hrs 33 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  11 hrs 33 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               25 repos            ██████████████░░░░░░░░░░░   55.56 % 
-TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               25 repos            ██████████████░░░░░░░░░░░   55.56 %
+TypeScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   26.67 %
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
 ```
 
+Last Updated on 06/11/2024 06:46:13 UTC
 
-
-
- Last Updated on 06/11/2024 06:46:13 UTC
 <!--END_SECTION:waka-->
 
 ---
