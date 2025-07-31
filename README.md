@@ -1,10 +1,8 @@
 [![banner](./images/seelay.svg)](https://www.seelay.in)
 
-**Hey there 👋 I'm Aman Seelay**
+**Hey 👋**
 
-[Multi-skilled](https://www.seelay.in/#skills), Product Designer from India, Passionate about blending [creativity](https://illustrations.seelay.in) with <b>data</b> to shape intuitive, future-ready products that align with both <s>user's</s> people's needs and business goals. Improving the lives of others through design and constantly looking to learn new things every day.
-
-I love to create things by [designing](https://www.seelay.in/#work) , [developing](https://www.seelay.in/#projects) or [drawing](https://art.seelay.in) :)
+I'm Aman Seelay, a versatile and forward-thinking product designer from India, combining [creative](https://illustrations.seelay.in) flair with [technical](https://www.seelay.in/#skills) expertise to craft engaging and effective [digital experiences](https://www.seelay.in/#work). I’m passionate about continuous learning and building [solutions](https://www.seelay.in/#projects) that improve people's lives.
 
 **💻 My Skills & Tools I use**
 
