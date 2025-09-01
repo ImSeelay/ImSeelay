@@ -24,9 +24,9 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 💼 Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 2 Public Repositories 
  > 
-> 🔑 27 Private Repository 
+> 🔑 26 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -83,7 +83,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 06:47:47 UTC
+ Last Updated on 01/09/2025 06:54:18 UTC
 <!--END_SECTION:waka-->
 
 ---
