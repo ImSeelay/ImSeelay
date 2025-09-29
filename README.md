@@ -24,10 +24,46 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 1 Public Repository 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 27 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                610 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+🌆 Daytime                587 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+🌃 Evening                1496 commits        ████████░░░░░░░░░░░░░░░░░   31.06 % 
+🌙 Night                  2124 commits        ███████████░░░░░░░░░░░░░░   44.09 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Tuesday                  720 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Wednesday                670 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Thursday                 676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   495 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Saturday                 728 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Sunday                   888 commits         █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +77,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 06:48:08 UTC
+ Last Updated on 29/09/2025 06:52:43 UTC
 <!--END_SECTION:waka-->
 
 ---
