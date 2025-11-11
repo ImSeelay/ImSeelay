@@ -14,11 +14,11 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 827.5 kB Used in GitHub's Storage 
+> 📦 827.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,989 Contributions in the Year 2025
  > 
@@ -81,7 +81,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2025 06:54:02 UTC
+ Last Updated on 11/11/2025 06:53:38 UTC
 <!--END_SECTION:waka-->
 
 ---
