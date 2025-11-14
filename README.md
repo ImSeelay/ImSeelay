@@ -18,7 +18,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 
 **🐱 My GitHub Data** 
 
-> 📦 827.6 kB Used in GitHub's Storage 
+> 📦 827.5 kB Used in GitHub's Storage 
  > 
 > 🏆 1,989 Contributions in the Year 2025
  > 
@@ -55,17 +55,13 @@ Sunday                   947 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Astro                    24 mins             ████████████░░░░░░░░░░░░░   48.51 % 
-Other                    21 mins             ███████████░░░░░░░░░░░░░░   42.82 % 
-JavaScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   26 mins             █████████████░░░░░░░░░░░░   50.83 % 
-Chrome                   25 mins             ████████████░░░░░░░░░░░░░   49.17 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +77,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 06:53:18 UTC
+ Last Updated on 14/11/2025 06:53:47 UTC
 <!--END_SECTION:waka-->
 
 ---
