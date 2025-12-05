@@ -55,14 +55,13 @@ Sunday                   947 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-CSS                      1 min               █████████████████████████   98.26 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +77,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/12/2025 06:55:43 UTC
+ Last Updated on 05/12/2025 06:55:41 UTC
 <!--END_SECTION:waka-->
 
 ---
