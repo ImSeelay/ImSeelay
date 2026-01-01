@@ -20,7 +20,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 
 > 📦 828.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,040 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -81,7 +81,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 06:57:58 UTC
+ Last Updated on 01/01/2026 06:57:42 UTC
 <!--END_SECTION:waka-->
 
 ---
