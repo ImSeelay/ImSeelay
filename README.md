@@ -14,7 +14,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -28,6 +28,42 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 🔑 27 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                648 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+🌆 Daytime                594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+🌃 Evening                1598 commits        ████████░░░░░░░░░░░░░░░░░   31.56 % 
+🌙 Night                  2223 commits        ███████████░░░░░░░░░░░░░░   43.91 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Tuesday                  771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                700 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Saturday                 747 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Sunday                   956 commits         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +77,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 06:56:01 UTC
+ Last Updated on 06/01/2026 06:59:56 UTC
 <!--END_SECTION:waka-->
 
 ---
