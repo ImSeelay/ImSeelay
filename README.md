@@ -14,7 +14,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -55,13 +55,15 @@ Sunday                   956 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               ██████████████████░░░░░░░   71.02 % 
+JSON                     0 secs              ███████░░░░░░░░░░░░░░░░░░   28.98 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 min               █████████████░░░░░░░░░░░░   52.00 % 
+Cursor                   1 min               ████████████░░░░░░░░░░░░░   48.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +79,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2026 07:01:51 UTC
+ Last Updated on 29/01/2026 07:26:00 UTC
 <!--END_SECTION:waka-->
 
 ---
