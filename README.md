@@ -28,6 +28,42 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 🔑 28 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+🌆 Daytime                602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+🌃 Evening                1731 commits        ████████░░░░░░░░░░░░░░░░░   32.78 % 
+🌙 Night                  2297 commits        ███████████░░░░░░░░░░░░░░   43.50 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+Tuesday                  774 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Wednesday                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Thursday                 741 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Friday                   588 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Saturday                 852 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Sunday                   965 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +77,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2026 08:09:21 UTC
+ Last Updated on 03/05/2026 08:20:42 UTC
 <!--END_SECTION:waka-->
 
 ---
