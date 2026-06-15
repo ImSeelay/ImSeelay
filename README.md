@@ -18,9 +18,9 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 
 **🐱 My GitHub Data** 
 
-> 📦 869.1 kB Used in GitHub's Storage 
+> 📦 870.4 kB Used in GitHub's Storage 
  > 
-> 🏆 311 Contributions in the Year 2026
+> 🏆 315 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,42 +28,6 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 🔑 28 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                669 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌆 Daytime                607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-🌃 Evening                1771 commits        ████████░░░░░░░░░░░░░░░░░   32.82 % 
-🌙 Night                  2349 commits        ███████████░░░░░░░░░░░░░░   43.53 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   678 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Tuesday                  790 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-Wednesday                716 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 782 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-Friday                   594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Saturday                 861 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Sunday                   975 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -77,7 +41,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2026 10:05:17 UTC
+ Last Updated on 15/06/2026 12:51:00 UTC
 <!--END_SECTION:waka-->
 
 ---
