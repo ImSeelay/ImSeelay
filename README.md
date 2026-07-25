@@ -18,9 +18,9 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 
 **🐱 My GitHub Data** 
 
-> 📦 898.7 kB Used in GitHub's Storage 
+> 📦 898.8 kB Used in GitHub's Storage 
  > 
-> 🏆 569 Contributions in the Year 2026
+> 🏆 573 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -28,6 +28,49 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 🔑 28 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌆 Daytime                622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+🌃 Evening                1870 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+🌙 Night                  2469 commits        ███████████░░░░░░░░░░░░░░   43.61 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   695 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Wednesday                787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Thursday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Friday                   624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Saturday                 916 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   1001 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    9 hrs 50 mins       █████████████░░░░░░░░░░░░   52.10 % 
+TypeScript               3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Astro                    2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+JavaScript               1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+SCSS                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+
+🔥 Editors: 
+Cursor                   9 hrs 36 mins       █████████████░░░░░░░░░░░░   50.81 % 
+Chrome                   9 hrs 13 mins       ████████████░░░░░░░░░░░░░   48.77 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+💻 Operating System: 
+Windows                  18 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +84,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 09:05:36 UTC
+ Last Updated on 25/07/2026 08:32:08 UTC
 <!--END_SECTION:waka-->
 
 ---
