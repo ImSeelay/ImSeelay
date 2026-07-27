@@ -18,9 +18,9 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 
 **🐱 My GitHub Data** 
 
-> 📦 899.9 kB Used in GitHub's Storage 
+> 📦 900.2 kB Used in GitHub's Storage 
  > 
-> 🏆 582 Contributions in the Year 2026
+> 🏆 592 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -31,21 +31,21 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-🌆 Daytime                622 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌃 Evening                1873 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌙 Night                  2475 commits        ███████████░░░░░░░░░░░░░░   43.64 % 
+🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+🌆 Daytime                623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+🌃 Evening                1874 commits        ████████░░░░░░░░░░░░░░░░░   32.99 % 
+🌙 Night                  2483 commits        ███████████░░░░░░░░░░░░░░   43.71 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   695 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Thursday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Friday                   624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Saturday                 919 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Sunday                   1007 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Wednesday                787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Thursday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Friday                   624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Saturday                 919 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
+Sunday                   1008 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
 ```
 
 
@@ -55,20 +55,19 @@ Sunday                   1007 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    10 hrs 45 mins      ████████████░░░░░░░░░░░░░   48.70 % 
-TypeScript               4 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-Astro                    3 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-JavaScript               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-SCSS                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Other                    12 hrs 18 mins      ████████████░░░░░░░░░░░░░   49.94 % 
+TypeScript               5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Astro                    3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+SCSS                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🔥 Editors: 
-Cursor                   12 hrs 11 mins      ██████████████░░░░░░░░░░░   55.13 % 
-Chrome                   9 hrs 50 mins       ███████████░░░░░░░░░░░░░░   44.51 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Cursor                   13 hrs 11 mins      █████████████░░░░░░░░░░░░   53.52 % 
+Chrome                   11 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.41 % 
+Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  22 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  24 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +83,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 08:59:12 UTC
+ Last Updated on 27/07/2026 10:28:21 UTC
 <!--END_SECTION:waka-->
 
 ---
