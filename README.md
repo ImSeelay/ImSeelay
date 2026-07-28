@@ -28,48 +28,6 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 🔑 28 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-🌆 Daytime                623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌃 Evening                1874 commits        ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌙 Night                  2483 commits        ███████████░░░░░░░░░░░░░░   43.71 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Wednesday                787 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Thursday                 821 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Friday                   624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Saturday                 919 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Sunday                   1008 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    12 hrs 18 mins      ████████████░░░░░░░░░░░░░   49.94 % 
-TypeScript               5 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-Astro                    3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
-SCSS                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-
-🔥 Editors: 
-Cursor                   13 hrs 11 mins      █████████████░░░░░░░░░░░░   53.52 % 
-Chrome                   11 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.41 % 
-Edge                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-💻 Operating System: 
-Windows                  24 hrs 39 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -83,7 +41,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 10:28:21 UTC
+ Last Updated on 28/07/2026 09:19:57 UTC
 <!--END_SECTION:waka-->
 
 ---
