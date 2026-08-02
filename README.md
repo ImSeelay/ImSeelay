@@ -57,41 +57,41 @@ Sunday                   1008 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    6 hrs 36 mins       █████████████░░░░░░░░░░░░   51.21 % 
-TypeScript               2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-JavaScript               1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Astro                    37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Other                    5 hrs 41 mins       ███████████████░░░░░░░░░░   58.66 % 
+TypeScript               1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+SCSS                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 46 mins       █████████████░░░░░░░░░░░░   52.51 % 
-Cursor                   6 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.33 % 
-Edge                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Chrome                   6 hrs 9 mins        ████████████████░░░░░░░░░   63.45 % 
+Cursor                   3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.35 % 
+Edge                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 45 mins (44.62%)
+⏱ AI Coding Time: 3 hrs 29 mins (35.95%)
 
-✍️ 10,174 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 5,698 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 182 AI Prompts
+🧠 5 AI Sessions, 64 AI Prompts
 
-Composer                 11,520 lines        █████████████████████████   100.00 % 
+Composer                 6,441 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 356 characters per prompt
-🔁 Iterative Prompter — average 26 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 270 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 08:42:17 UTC
+ Last Updated on 02/08/2026 08:56:22 UTC
 <!--END_SECTION:waka-->
 
 ---
