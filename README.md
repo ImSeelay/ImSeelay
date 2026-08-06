@@ -16,7 +16,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,39 +57,19 @@ Sunday                   1008 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    12 mins             ██████████████░░░░░░░░░░░   55.69 % 
-JavaScript               7 mins              █████████░░░░░░░░░░░░░░░░   34.67 % 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   12 mins             ██████████████░░░░░░░░░░░   55.69 % 
-Cursor                   9 mins              ███████████░░░░░░░░░░░░░░   44.31 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (44.31%)
-
-✍️ 68 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 4 AI Prompts
-
-Composer                 108 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +85,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 09:20:58 UTC
+ Last Updated on 06/08/2026 09:24:09 UTC
 <!--END_SECTION:waka-->
 
 ---
