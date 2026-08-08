@@ -14,7 +14,9 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2039%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -28,6 +30,48 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 🔑 28 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+🌆 Daytime                627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+🌃 Evening                1888 commits        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌙 Night                  2498 commits        ███████████░░░░░░░░░░░░░░   43.72 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Wednesday                790 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Thursday                 827 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+Friday                   630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Saturday                 929 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Sunday                   1008 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,7 +85,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 07:53:55 UTC
+ Last Updated on 08/08/2026 07:31:32 UTC
 <!--END_SECTION:waka-->
 
 ---
