@@ -16,7 +16,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -85,7 +85,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 07:25:07 UTC
+ Last Updated on 21/08/2026 07:26:00 UTC
 <!--END_SECTION:waka-->
 
 ---
