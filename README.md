@@ -14,7 +14,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -57,19 +57,40 @@ Sunday                   1008 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    59 mins             ██████████████████████░░░   86.88 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   59 mins             ██████████████████████░░░   86.50 % 
+Cursor                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 mins (12.81%)
+
+✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 3 AI Prompts
+
+Composer                 72 lines            █████████████░░░░░░░░░░░░   51.43 % 
+Sonnet                   68 lines            ████████████░░░░░░░░░░░░░   48.57 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 468 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +106,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 07:28:19 UTC
+ Last Updated on 27/08/2026 17:53:14 UTC
 <!--END_SECTION:waka-->
 
 ---
