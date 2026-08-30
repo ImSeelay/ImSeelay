@@ -20,9 +20,9 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 
 **🐱 My GitHub Data** 
 
-> 📦 910.7 kB Used in GitHub's Storage 
+> 📦 909.4 kB Used in GitHub's Storage 
  > 
-> 🏆 604 Contributions in the Year 2026
+> 🏆 626 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -33,21 +33,21 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-🌆 Daytime                627 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-🌃 Evening                1891 commits        ████████░░░░░░░░░░░░░░░░░   33.03 % 
-🌙 Night                  2506 commits        ███████████░░░░░░░░░░░░░░   43.77 % 
+🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+🌆 Daytime                630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+🌃 Evening                1893 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
+🌙 Night                  2523 commits        ███████████░░░░░░░░░░░░░░   43.90 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Wednesday                791 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-Thursday                 827 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Friday                   633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Saturday                 936 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Sunday                   1008 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Monday                   712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Wednesday                791 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Thursday                 827 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Friday                   633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Saturday                 938 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Sunday                   1028 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
 ```
 
 
@@ -106,7 +106,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 12:49:18 UTC
+ Last Updated on 30/08/2026 12:10:17 UTC
 <!--END_SECTION:waka-->
 
 ---
