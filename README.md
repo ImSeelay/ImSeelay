@@ -14,9 +14,9 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-78%20hrs%2057%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-80%20hrs%2025%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,40 +57,42 @@ Sunday                   1028 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    59 mins             ██████████████████████░░░   86.88 % 
-TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Astro                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    1 hr 47 mins        █████████████░░░░░░░░░░░░   52.35 % 
+TypeScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.86 % 
+Astro                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+SCSS                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-Chrome                   59 mins             ██████████████████████░░░   86.50 % 
-Cursor                   9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Chrome                   1 hr 47 mins        █████████████░░░░░░░░░░░░   52.19 % 
+Cursor                   1 hr 33 mins        ███████████░░░░░░░░░░░░░░   45.31 % 
+Agent                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 💻 Operating System: 
-Windows                  1 hr 8 mins         █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (12.81%)
+⏱ AI Coding Time: 1 hr 37 mins (47.11%)
 
-✍️ 95 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,061 lines written by AI, 2 lines written by hand (99.95% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 72,787 Input Tokens, 72,787 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $1.31 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 3 AI Prompts
+🧠 11 AI Sessions, 44 AI Prompts
 
-Composer                 72 lines            █████████████░░░░░░░░░░░░   51.43 % 
-Sonnet                   68 lines            ████████████░░░░░░░░░░░░░   48.57 % 
+Composer                 4,177 lines         █████████████████████████   98.40 % 
+Sonnet                   68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 468 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 6,915 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -106,7 +108,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 12:10:17 UTC
+ Last Updated on 31/08/2026 14:19:41 UTC
 <!--END_SECTION:waka-->
 
 ---
