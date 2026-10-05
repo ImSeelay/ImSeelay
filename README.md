@@ -20,28 +20,28 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 
 **🐱 My GitHub Data** 
 
-> 📦 909.4 kB Used in GitHub's Storage 
+> 📦 909.5 kB Used in GitHub's Storage 
  > 
-> 🏆 627 Contributions in the Year 2026
+> 🏆 629 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 28 Private Repository 
+> 🔑 29 Private Repository 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌆 Daytime                631 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+🌆 Daytime                632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 🌃 Evening                1893 commits        ████████░░░░░░░░░░░░░░░░░   32.93 % 
 🌙 Night                  2523 commits        ███████████░░░░░░░░░░░░░░   43.89 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Monday                   714 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
 Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
 Wednesday                791 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
 Thursday                 827 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
@@ -95,17 +95,17 @@ Codex-Vscode             0 lines             ░░░░░░░░░░░�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ███████████████░░░░░░░░░░   58.06 % 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               18 repos            ██████████████░░░░░░░░░░░   56.25 % 
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
 
 
- Last Updated on 04/10/2026 12:47:17 UTC
+ Last Updated on 05/10/2026 15:11:24 UTC
 <!--END_SECTION:waka-->
 
 ---
