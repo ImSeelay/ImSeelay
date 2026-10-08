@@ -57,39 +57,19 @@ Sunday                   1028 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     7 mins              ████████████████████░░░░░   78.77 % 
-Other                    2 mins              █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              ████████████████████████░   96.85 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Agent                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 mins (78.77%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 405,160 Input Tokens, 83,653 Output Tokens
-
-💵 $45.78 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 4 AI Prompts
-
-Composer                 237 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📚 Verbose Prompter — average 17,987 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -105,7 +85,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 13:46:42 UTC
+ Last Updated on 08/10/2026 13:54:51 UTC
 <!--END_SECTION:waka-->
 
 ---
