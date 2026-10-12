@@ -14,7 +14,7 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2059%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-82%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,19 +57,41 @@ Sunday                   1029 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    29 mins             ███████████████░░░░░░░░░░   59.58 % 
+Java Properties          13 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+XML                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   25 mins             █████████████░░░░░░░░░░░░   50.50 % 
+Chrome                   20 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
+Agent                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (40.42%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+Grok                     10 lines            █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 161 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +107,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 13:19:52 UTC
+ Last Updated on 12/10/2026 15:56:56 UTC
 <!--END_SECTION:waka-->
 
 ---
