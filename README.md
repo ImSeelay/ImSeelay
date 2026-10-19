@@ -30,70 +30,6 @@ I'm Aman Seelay, a versatile and forward-thinking product designer from India, c
  > 
 > 🔑 29 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-🌆 Daytime                632 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-🌃 Evening                1893 commits        ████████░░░░░░░░░░░░░░░░░   32.92 % 
-🌙 Night                  2524 commits        ███████████░░░░░░░░░░░░░░   43.90 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   714 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Tuesday                  818 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Wednesday                791 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Thursday                 827 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Friday                   633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Saturday                 938 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-Sunday                   1029 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    29 mins             ███████████████░░░░░░░░░░   59.58 % 
-Java Properties          13 mins             ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-XML                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-
-🔥 Editors: 
-Cursor                   25 mins             █████████████░░░░░░░░░░░░   50.50 % 
-Chrome                   20 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
-Agent                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-
-💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 20 mins (40.42%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 7 AI Prompts
-
-Grok                     10 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 161 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -107,7 +43,7 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 11:36:32 UTC
+ Last Updated on 19/10/2026 13:50:53 UTC
 <!--END_SECTION:waka-->
 
 ---
